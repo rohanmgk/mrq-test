@@ -16,7 +16,7 @@ This tool can be used for games, simulations, or testing purposes.
 - **NumberPoolGenerator.java**: This class creates a pool of available numbers for each column.
 - **BingoStripGeneratorTest.java**: This a unit test to verify the rules for the Bingo ticket.
 - **BingoStripGeneratorLoadTest.java**: This a load test to ensure that it takes less than 1s to generate 10k Bingo strips.
-- 
+ 
 ## Requirements
 - Java 21 or higher
 - Maven (for building and running the project)
