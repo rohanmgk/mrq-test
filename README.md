@@ -26,7 +26,6 @@ This tool can be used for games, simulations, or testing purposes.
 ### Clone the Repository
 ```bash
 git clone https://github.com/rohanmgk/mrq-test.git
-cd BingoTicketGenerator
 ```
 
 ### Run the tests
