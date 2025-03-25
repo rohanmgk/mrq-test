@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * The PotentialPositionsGenerator class is responsible for generating potential positions for Bingo tickets.
  * These positions represent possible placements of numbers within each Bingo ticket, organized into three rows
- * for each ticket. The positions are shuffled to introduce randomness.
+ * for each ticket. The positions are shuffled to introduce randomness
  */
 public class PotentialPositionsGenerator {
 
