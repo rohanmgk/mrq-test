@@ -14,7 +14,7 @@ public class NumberPoolGenerator {
 
     /**
      * Generates a Map of Bingo number pools, where each key represents a column and the corresponding
-     * value is a deque of shuffled numbers.
+     * value is a deque of shuffled numbers
      *
      * @return A Map where the key is an integer (representing the column) and the value is a deque of strings
      *         representing the Bingo numbers for that column.
