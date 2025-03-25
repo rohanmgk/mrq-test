@@ -11,7 +11,7 @@ This tool can be used for games, simulations, or testing purposes.
 - **Efficient Performance**: Designed for generating a large number of tickets in a short period.
 
 ## Key Classes
-- **BingoStripGenerator.java**: This is the main class which generates a random Bingo strip.
+- **BingoStripGenerator.java**: This is the main class which generates a random Bingo strip
 - **PotentialPositionsGenerator.java**: This class creates a set of static positions which would meet the criteria of rules for Bingo tickets.
 - **NumberPoolGenerator.java**: This class creates a pool of available numbers for each column.
 - **BingoStripGeneratorTest.java**: This a unit test to verify the rules for the Bingo ticket.
