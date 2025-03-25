@@ -8,7 +8,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 
 /**
  * Load test for the BingoStripGenerator class.
- * This test evaluates the performance of the `generateStrip()` method by measuring the time it takes to generate 10,000 strips.
+ * This test evaluates the performance of the `generateStrip()` method by measuring the time it takes to generate 10,000 strips
  */
 public class BingoStripGeneratorLoadTest {
     private static final BingoStripGenerator testObj = new BingoStripGenerator();
