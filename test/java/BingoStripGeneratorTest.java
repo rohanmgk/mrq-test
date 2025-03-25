@@ -22,7 +22,7 @@ public class BingoStripGeneratorTest {
     @Test
     void check6TicketsInStrip() {
         var strip = testObj.generateStrip();
-        assertEquals(5 + 1, strip.size());
+        assertEquals(6, strip.size());
     }
 
     /**
