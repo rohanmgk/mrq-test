@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
  * The NumberPoolGenerator class is responsible for generating a pool of Bingo numbers.
  * It creates a Map where each key is a column number (0-8), and the value is a deque of numbers
  * corresponding to the range of numbers for that column (e.g., 1-9 for column 0, 10-19 for column 1, etc.).
- * The numbers in each deque are shuffled to ensure randomness.
+ * The numbers in each deque are shuffled to ensure randomness
  */
 public class NumberPoolGenerator {
 
