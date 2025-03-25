@@ -5,7 +5,7 @@ import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
 /**
- * The BingoStripGenerator class is responsible for generating a strip of Bingo tickets.
+ * The BingoStripGenerator class is responsible for generating a strip of Bingo tickets
  * It uses a number pool and potential positions to generate a list of tickets where each ticket
  * consists of 3 rows and 9 columns, with numbers placed in specific positions.
  */
