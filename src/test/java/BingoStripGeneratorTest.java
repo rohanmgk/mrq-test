@@ -10,7 +10,7 @@ import java.util.stream.IntStream;
 
 /**
  * Unit tests for the BingoStripGenerator class.
- * These tests verify that the Bingo strip generation logic is working as expected.
+ * These tests verify that the Bingo strip generation logic is working as expected
  */
 public class BingoStripGeneratorTest {
 
